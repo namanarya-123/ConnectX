@@ -1,4 +1,4 @@
-.landingPageContainer {
+/* .landingPageContainer {
   width: 100vw;
   height: 100vh;
   background: url("/public/background.png");
@@ -57,7 +57,7 @@
 .landingMainContainer>div:nth-child(2) img {
   height: 70vh;
   width: auto;
-}
+} */
 
 .navBar {
   display: flex;
